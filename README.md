@@ -8,8 +8,8 @@ En este repositorio encontrarás:
 - [Discusiones abiertas sobre temas específicos para el grupo](https://github.com/orgs/Ciencia-Computacional-HIMFG/discussions)
 - [Información sobre próximos eventos](https://github.com/orgs/Ciencia-Computacional-HIMFG/discussions/2)
 
-Por último, si vas a participar de alguna manera en este grupo, visita [el perfil del resto de miembros e incluye el tuyo](https://github.com/Ciencia-Computacional-HIMFG/Miembros).
+Por último, si vas a participar de alguna manera en este grupo, visita [el perfil del resto de miembros e incluye el tuyo](https://github.com/Ciencia-Computacional-HIMFG/Miembros). Y no olvides conocer y respetar el [Código de Conducta](https://github.com/Ciencia-Computacional-HIMFG/Foro-Central/blob/main/CODE-OF-CONDUCT.md) del grupo.
 
 ¡Gracias por tu participación!    
-Y no olvides conocer y respetar el [Código de Conducta](https://github.com/Ciencia-Computacional-HIMFG/Foro-Central/blob/main/CODE-OF-CONDUCT.md) del grupo.
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Los miembros de este grupo](https://github.com/Ciencia-Computacional-HIMFG/Miembros)
